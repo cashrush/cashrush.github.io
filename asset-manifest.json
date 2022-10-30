@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09df3690.css",
+    "main.js": "/static/js/main.b611a837.js",
+    "static/js/787.8150443a.chunk.js": "/static/js/787.8150443a.chunk.js",
+    "static/media/home.png": "/static/media/home.ef80c5ec2b7639b351a5.png",
+    "static/media/features.png": "/static/media/features.b66fafbe64e8544b4e90.png",
+    "static/media/collection.png": "/static/media/collection.8ac4c202c025732c0a7d.png",
+    "static/media/refferal.png": "/static/media/refferal.24800ac021998725cd41.png",
+    "static/media/features-mobile.png": "/static/media/features-mobile.ce55370e0dc2c940a575.png",
+    "static/media/rip.png": "/static/media/rip.3eaca8f331335e0dd25f.png",
+    "static/media/bebasneuebold.ttf": "/static/media/bebasneuebold.7e8743efe82e2bd4ea19.ttf",
+    "static/media/bebasneuethin.ttf": "/static/media/bebasneuethin.7b059658c784122eaeb9.ttf",
+    "static/media/bebasneuelight.ttf": "/static/media/bebasneuelight.a9dde79c0d2612db5757.ttf",
+    "static/media/bebasneuebook.ttf": "/static/media/bebasneuebook.8fed7a22959456033ccb.ttf",
+    "static/media/bebasneueregular.ttf": "/static/media/bebasneueregular.b1570ed2d2c5ef330f84.ttf",
+    "static/media/bebasneuelight.woff": "/static/media/bebasneuelight.145b84a95ea9c368b849.woff",
+    "static/media/bebasneuebook.woff": "/static/media/bebasneuebook.83e89821f3d09d1b4885.woff",
+    "static/media/bebasneuethin.woff": "/static/media/bebasneuethin.c340c31ed574e9c3c58c.woff",
+    "static/media/bebasneueregular.woff": "/static/media/bebasneueregular.86232795d1652fc166cb.woff",
+    "static/media/bebasneuebold.woff": "/static/media/bebasneuebold.e9a1d1540e2dc38042c4.woff",
+    "static/media/bebasneuelight.woff2": "/static/media/bebasneuelight.d469608f9681e6c1031c.woff2",
+    "static/media/bebasneuebook.woff2": "/static/media/bebasneuebook.a9f49bd02b27c1654488.woff2",
+    "static/media/bebasneuethin.woff2": "/static/media/bebasneuethin.01d409deff5a37beae94.woff2",
+    "static/media/bebasneueregular.woff2": "/static/media/bebasneueregular.0aaf8f475e9ff51c29bf.woff2",
+    "static/media/bebasneuebold.woff2": "/static/media/bebasneuebold.beb6b9047e5df8aa73cc.woff2",
+    "index.html": "/index.html",
+    "static/media/button.svg": "/static/media/button.c2a0d6990c3b4e14f9c6.svg",
+    "main.09df3690.css.map": "/static/css/main.09df3690.css.map",
+    "main.b611a837.js.map": "/static/js/main.b611a837.js.map",
+    "787.8150443a.chunk.js.map": "/static/js/787.8150443a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09df3690.css",
+    "static/js/main.b611a837.js"
+  ]
+}
